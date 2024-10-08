@@ -4,7 +4,7 @@ https://dimitri-restaurant.simploncertif.fr/
 
 O2switch est un hébergeur français, son tarif varie de 2 à 7 euros par mois selon les promos, pour une offre en illimitée sur le nombre de sites, de bdd , de comptes email et de bande passante. 
 
-https://www.o2switch.fr/hebergement-illimite/
+
 
 Il est idéal pour déployer des applications php, symfo, Laravel, wordpress, joomla ou html / css. 
 
@@ -12,7 +12,7 @@ Outre son coté illimité, il dispose d’un cpanel, qui permet de créer des co
 
 O2switch est un hébergeur français, son tarif varie de 2 à 7 euros par mois selon les promos, pour une offre en illimitée sur le nombre de sites, de bdd , de comptes email et de bande passante. 
 
-https://www.o2switch.fr/hebergement-illimite/
+
 
 Il est idéal pour déployer des applications php, symfo, Laravel, wordpress, joomla ou html / css. 
 
@@ -20,7 +20,7 @@ Outre son coté illimité, il dispose d’un cpanel, qui permet de créer des co
 
 O2switch est un hébergeur français, son tarif varie de 2 à 7 euros par mois selon les promos, pour une offre en illimitée sur le nombre de sites, de bdd , de comptes email et de bande passante. 
 
-https://www.o2switch.fr/hebergement-illimite/
+
 
 Il est idéal pour déployer des applications php, symfo, Laravel, wordpress, joomla ou html / css. 
 
@@ -28,7 +28,7 @@ Outre son coté illimité, il dispose d’un cpanel, qui permet de créer des co
 
 O2switch est un hébergeur français, son tarif varie de 2 à 7 euros par mois selon les promos, pour une offre en illimitée sur le nombre de sites, de bdd , de comptes email et de bande passante. 
 
-https://www.o2switch.fr/hebergement-illimite/
+
 
 Il est idéal pour déployer des applications php, symfo, Laravel, wordpress, joomla ou html / css. 
 

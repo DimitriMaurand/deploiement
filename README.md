@@ -2,35 +2,8 @@
 https://dimitri-restaurant.simploncertif.fr/
 
 
-O2switch est un hébergeur français, son tarif varie de 2 à 7 euros par mois selon les promos, pour une offre en illimitée sur le nombre de sites, de bdd , de comptes email et de bande passante. 
 
-
-
-Il est idéal pour déployer des applications php, symfo, Laravel, wordpress, joomla ou html / css. 
-
-Outre son coté illimité, il dispose d’un cpanel, qui permet de créer des comptes messagerie, créer une base de données,  gérer les fichiers d’une application, d’un nom de domaine, l’installation d’un certificat ssl etc…  
-
-O2switch est un hébergeur français, son tarif varie de 2 à 7 euros par mois selon les promos, pour une offre en illimitée sur le nombre de sites, de bdd , de comptes email et de bande passante. 
-
-
-
-Il est idéal pour déployer des applications php, symfo, Laravel, wordpress, joomla ou html / css. 
-
-Outre son coté illimité, il dispose d’un cpanel, qui permet de créer des comptes messagerie, créer une base de données,  gérer les fichiers d’une application, d’un nom de domaine, l’installation d’un certificat ssl etc…  
-
-O2switch est un hébergeur français, son tarif varie de 2 à 7 euros par mois selon les promos, pour une offre en illimitée sur le nombre de sites, de bdd , de comptes email et de bande passante. 
-
-
-
-Il est idéal pour déployer des applications php, symfo, Laravel, wordpress, joomla ou html / css. 
-
-Outre son coté illimité, il dispose d’un cpanel, qui permet de créer des comptes messagerie, créer une base de données,  gérer les fichiers d’une application, d’un nom de domaine, l’installation d’un certificat ssl etc…  
-
-O2switch est un hébergeur français, son tarif varie de 2 à 7 euros par mois selon les promos, pour une offre en illimitée sur le nombre de sites, de bdd , de comptes email et de bande passante. 
-
-
-
-Il est idéal pour déployer des applications php, symfo, Laravel, wordpress, joomla ou html / css. 
+Il dispose d’un cpanel, qui permet de créer des comptes messagerie, créer une base de données,  gérer les fichiers d’une application, d’un nom de domaine, l’installation d’un certificat ssl etc…  
 
 Outre son coté illimité, il dispose d’un cpanel, qui permet de créer des comptes messagerie, créer une base de données,  gérer les fichiers d’une application, d’un nom de domaine, l’installation d’un certificat ssl etc…  
 

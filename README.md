@@ -18,7 +18,7 @@ Créer une base de données,  retourner sur le cpanel et cliquez sur  assistant 
 Entrez le nom de votre futur base de données, et conservez le  pour lereporter dans votre fichier de connexion php.
 
 
-Entrez ensuite un nom d’utilisateur que vous conserverez également, n’oubliez pas votre pseudo avant  exemple ici : nqws0790_test_deploiement
+Entrez ensuite un nom d’utilisateur que vous conserverez également, n’oubliez pas votre pseudo avant  exemple  : nqws0790_test_deploiement
 
 
 Cochez les droits que vous souhaitez donner à cet utilisateur
